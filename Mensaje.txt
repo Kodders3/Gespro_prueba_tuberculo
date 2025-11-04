@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola patata
+=======
+Hola Jaime
+>>>>>>> a4ad6e35d8be8866960f01932a7b0ce70672ab2f
